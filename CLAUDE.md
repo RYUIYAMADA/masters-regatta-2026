@@ -1,7 +1,7 @@
 # 第17回全日本マスターズレガッタ 速報サイト
 
 ## Obsidian Brain 連携
-**Vault**: `~/Desktop/ryui-workspace/projects/obsidian-brain/`
+**Vault**: `~/Desktop/ryui-workspace/obsidian-brain/`
 **本 PJ Sessions**: `Sessions/Masters Regatta.md`
 **本 PJ Projects**: `Projects/masters-regatta-2026.md` / `Projects/masters-pdf-publisher.md`
 **詳細ルール**: `~/.claude/rules/on-demand/obsidian-brain-detail.md`
